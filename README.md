@@ -1,0 +1,1 @@
+Built a predictive model to forecast equipment failures using historical sensor data. Applied machine learning algorithms with Python and Scikit-learn to improve maintenance planning and reduce downtime.
